@@ -17,8 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Raven's Lair -->
-    <string name="dirtytweaks_title">Raven\'s Lair</string>
-    <string name="dirtytweaks_summary">Unleash the Raven</string>
+    <string name="dirtytweaks_title">Herbert\'s Cellar</string>
+    <string name="dirtytweaks_summary">I\'ve got some popsicles in here if you want some10</string>
 
     <!-- The Team -->
     <string name="dialog_team_title">The Team</string>
@@ -35,8 +35,8 @@
 
     <!-- Categories -->
     <!-- System -->
-    <string name="corvus_parts_title">Corvus Parts</string>
-    <string name="corvus_parts_summary">Corvus device specific parts</string>
+    <string name="corvus_parts_title">Kang Parts</string>
+    <string name="corvus_parts_summary">Kang device specific parts</string>
     <string name="miscellaneous_title">Miscellaneous</string>
     <string name="miscellaneous_summary">Miscellaneous customizations</string>
     <string name="powermenu_title">Power menu</string>
